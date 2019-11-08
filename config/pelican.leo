@@ -71,6 +71,9 @@
 </v>
 </v>
 </v>
+<v t="leo.20191108213844.1"><vh>@path markdown</vh>
+<v t="leo.20191108213918.1"><vh>week9</vh></v>
+</v>
 <v t="yen.20170108171733.83"><vh>產生 .key 與 .crt 指令</vh></v>
 </v>
 <v t="yen.20170108171930.1"><vh>@button https server</vh></v>
@@ -101,6 +104,12 @@ g.es("admin pelican Github 執行完畢")
 <t tx="leo.20180115115910.1"></t>
 <t tx="leo.20180115142025.1"></t>
 <t tx="leo.20180423103639.1"></t>
+<t tx="leo.20191108213844.1"></t>
+<t tx="leo.20191108213918.1">@language md
+Title: 期中報告
+網址:&lt;a href ="https://www.youtube.com/watch?v=alJZ0KpQz3E"&gt;https://www.youtube.com/watch?v=alJZ0KpQz3E&lt;/a&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/alJZ0KpQz3E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
