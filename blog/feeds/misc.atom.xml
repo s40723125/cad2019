@@ -1,9 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>cad2019 40723125 - misc</title><link href="https://s40723125.github.io/cad2019/blog/" rel="alternate"></link><link href="https://s40723125.github.io/cad2019/blog/feeds/misc.atom.xml" rel="self"></link><id>https://s40723125.github.io/cad2019/blog/</id><updated>2019-11-08T21:54:16+08:00</updated><entry><title>期中報告</title><link href="https://s40723125.github.io/cad2019/blog/qi-zhong-bao-gao.html" rel="alternate"></link><published>2019-11-08T21:54:16+08:00</published><updated>2019-11-08T21:54:16+08:00</updated><author><name>KMOL</name></author><id>tag:s40723125.github.io,2019-11-08:/cad2019/blog/qi-zhong-bao-gao.html</id><summary type="html">&lt;p&gt;學號:40723125
-網址:&lt;a href ="https://www.youtube.com/watch?v=alJZ0KpQz3E"&gt;https://www.youtube.com/watch?v=alJZ0KpQz3E&lt;/a&gt;&lt;/p&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/alJZ0KpQz3E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</summary><content type="html">&lt;p&gt;學號:40723125
-網址:&lt;a href ="https://www.youtube.com/watch?v=alJZ0KpQz3E"&gt;https://www.youtube.com/watch?v=alJZ0KpQz3E&lt;/a&gt;&lt;/p&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/alJZ0KpQz3E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</content></entry><entry><title>2018 Fall CP 課程</title><link href="https://s40723125.github.io/cad2019/blog/2018-Fall-32-bit-Windows.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:s40723125.github.io,2018-09-10:/cad2019/blog/2018-Fall-32-bit-Windows.html</id><summary type="html">&lt;p&gt;2018 Fall 一開始, 在一台已經 10 年的 32 位元的 Windows 7 操作系統中工作. 可攜的 Python 3.7.0 仍然可以配置, Leo Editor、PyQt5、flask、Markdown、pelican 與 bs4 的安裝, 也都沒有問題. 只有 Eric6 因為缺少必要模組與 Python 3.7.0 對應的 pyqt5-tools, 因此沒有安裝.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>cad2019 40723125 - misc</title><link href="https://s40723125.github.io/cad2019/blog/" rel="alternate"></link><link href="https://s40723125.github.io/cad2019/blog/feeds/misc.atom.xml" rel="self"></link><id>https://s40723125.github.io/cad2019/blog/</id><updated>2019-11-08T22:17:08+08:00</updated><entry><title>期中報告</title><link href="https://s40723125.github.io/cad2019/blog/qi-zhong-bao-gao.html" rel="alternate"></link><published>2019-11-08T22:17:08+08:00</published><updated>2019-11-08T22:17:08+08:00</updated><author><name>KMOL</name></author><id>tag:s40723125.github.io,2019-11-08:/cad2019/blog/qi-zhong-bao-gao.html</id><summary type="html">&lt;h2&gt;學號:40723125&lt;/h2&gt;
+&lt;p&gt;網址:&lt;a href ="https://www.youtube.com/watch?v=alJZ0KpQz3E"&gt;https://www.youtube.com/watch?v=alJZ0KpQz3E&lt;/a&gt;&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/alJZ0KpQz3E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;心得:&lt;/h2&gt;
+&lt;p&gt;剛開始學習到現在覺得這是一門課很實用但很難操作，像solvespace從零開始學習新的一套繪圖技巧我還是覺得solidworks比較好用。還有webots跟v-rep，到現在還不懂這兩者的主要用途，但我相信繼續堅持學習因該就會懂的 ToT&lt;/p&gt;
+&lt;h2&gt;我的網站:&lt;a href ="s40723125"&gt;https://s40723125.github.io/cad2019&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;week2~week9&lt;/h2&gt;
+&lt;h2&gt;week2&lt;/h2&gt;
+&lt;p&gt;亂數分組 :甲班第5組&lt;/p&gt;
+&lt;p&gt;課程、評分標準的說明&lt;/p&gt;
+&lt;p&gt;建立個人倉儲cad2019&lt;/p&gt;
+&lt;h2&gt;week3&lt;/h2&gt;
+&lt;p&gt;Solvespace編譯&lt;/p&gt;
+&lt;h2&gt;week5&lt;/h2&gt;
+&lt;p&gt;Solvespace 操作&lt;/p&gt;
+&lt;h2&gt;week6&lt;/h2&gt;
+&lt;p&gt;參數化零組件繪製&lt;/p&gt;
+&lt;p&gt;網際 V-rep 模型控制&lt;/p&gt;
+&lt;h2&gt;week7&lt;/h2&gt;
+&lt;p&gt;小組統一規格&lt;/p&gt;
+&lt;p&gt;Solvespace 繪圖驗證&lt;/p&gt;
+&lt;h2&gt;week8&lt;/h2&gt;
+&lt;p&gt;啟動Blog&lt;/p&gt;</summary><content type="html">&lt;h2&gt;學號:40723125&lt;/h2&gt;
+&lt;p&gt;網址:&lt;a href ="https://www.youtube.com/watch?v=alJZ0KpQz3E"&gt;https://www.youtube.com/watch?v=alJZ0KpQz3E&lt;/a&gt;&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/alJZ0KpQz3E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;心得:&lt;/h2&gt;
+&lt;p&gt;剛開始學習到現在覺得這是一門課很實用但很難操作，像solvespace從零開始學習新的一套繪圖技巧我還是覺得solidworks比較好用。還有webots跟v-rep，到現在還不懂這兩者的主要用途，但我相信繼續堅持學習因該就會懂的 ToT&lt;/p&gt;
+&lt;h2&gt;我的網站:&lt;a href ="s40723125"&gt;https://s40723125.github.io/cad2019&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;week2~week9&lt;/h2&gt;
+&lt;h2&gt;week2&lt;/h2&gt;
+&lt;p&gt;亂數分組 :甲班第5組&lt;/p&gt;
+&lt;p&gt;課程、評分標準的說明&lt;/p&gt;
+&lt;p&gt;建立個人倉儲cad2019&lt;/p&gt;
+&lt;h2&gt;week3&lt;/h2&gt;
+&lt;p&gt;Solvespace編譯&lt;/p&gt;
+&lt;h2&gt;week5&lt;/h2&gt;
+&lt;p&gt;Solvespace 操作&lt;/p&gt;
+&lt;h2&gt;week6&lt;/h2&gt;
+&lt;p&gt;參數化零組件繪製&lt;/p&gt;
+&lt;p&gt;網際 V-rep 模型控制&lt;/p&gt;
+&lt;h2&gt;week7&lt;/h2&gt;
+&lt;p&gt;小組統一規格&lt;/p&gt;
+&lt;p&gt;Solvespace 繪圖驗證&lt;/p&gt;
+&lt;h2&gt;week8&lt;/h2&gt;
+&lt;p&gt;啟動Blog&lt;/p&gt;</content></entry><entry><title>2018 Fall CP 課程</title><link href="https://s40723125.github.io/cad2019/blog/2018-Fall-32-bit-Windows.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:s40723125.github.io,2018-09-10:/cad2019/blog/2018-Fall-32-bit-Windows.html</id><summary type="html">&lt;p&gt;2018 Fall 一開始, 在一台已經 10 年的 32 位元的 Windows 7 操作系統中工作. 可攜的 Python 3.7.0 仍然可以配置, Leo Editor、PyQt5、flask、Markdown、pelican 與 bs4 的安裝, 也都沒有問題. 只有 Eric6 因為缺少必要模組與 Python 3.7.0 對應的 pyqt5-tools, 因此沒有安裝.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2018 Fall 一開始, 在一台已經 10 年的 32 位元的 Windows 7 操作系統中工作. 可攜的 Python 3.7.0 仍然可以配置, Leo Editor、PyQt5、flask、Markdown、pelican 與 bs4 的安裝, 也都沒有問題. 只有 Eric6 因為缺少必要模組與 Python 3.7.0 對應的 pyqt5-tools, 因此沒有安裝.&lt;/p&gt;
 
 
