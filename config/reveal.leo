@@ -34,6 +34,12 @@
 <v t="leo.20200109185845.1"><vh>任務三</vh>
 <v t="leo.20200109185858.1"><vh>v_rep</vh></v>
 </v>
+<v t="leo.20200109201201.1"><vh>任務四</vh>
+<v t="leo.20200109201224.1"><vh>NX</vh></v>
+</v>
+<v t="leo.20200109201207.1"><vh>任務五</vh>
+<v t="leo.20200109201610.1"><vh>全部</vh></v>
+</v>
 </v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180902120523.14"><vh>導入數學符號與方程式</vh>
@@ -378,7 +384,25 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20200109185858.1">#### v_rep
+&lt;iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/PqTwudsZ3fA"&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20200109201201.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
 
-&lt;img alt height="209"   src="./../images/40723125blog.png "  width="553"&gt;</t>
+</t>
+<t tx="leo.20200109201207.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20200109201224.1"># NX
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/A-Iu8Uhgp_c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200109201610.1">成果
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/zowdx4VmnIg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
