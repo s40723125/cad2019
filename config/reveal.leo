@@ -379,6 +379,6 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200109185858.1">#### v_rep
 
-&lt;img  src="/images/40723125blog.png " height="209" width="553"&gt;</t>
+&lt;img alt height="209"   src="./../images/40723125blog.png "  width="553"&gt;</t>
 </tnodes>
 </leo_file>
